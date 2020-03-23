@@ -1,2 +1,2 @@
 # options
-HFT robot for options trad
+HFT robot for options tradi
