@@ -1,2 +1,2 @@
 # options
-HFT robot for options trading with
+HFT robot for options trading with ri
