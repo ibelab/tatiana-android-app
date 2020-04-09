@@ -1,2 +1,2 @@
 # options
-HFT robot for options trading with risk c
+HFT robot for options trading with risk contro
