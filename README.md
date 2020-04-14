@@ -1,2 +1,2 @@
 # options
-HFT robot for options trading with risk control and hedg
+HFT robot for options trading with risk control and hedging
