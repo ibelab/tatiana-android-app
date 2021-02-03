@@ -7,4 +7,4 @@ Within each strategy, pricing parameters are set with reference to the relative 
 Operator order:
 - definition of constants
 - selection of underlying assets
-- definition of
+- definition of p
