@@ -8,4 +8,4 @@ Operator order:
 - definition of constants
 - selection of underlying assets
 - definition of parameters for underlying assets
-- determin
+- determination 
