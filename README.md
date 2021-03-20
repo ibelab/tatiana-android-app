@@ -9,4 +9,4 @@ Operator order:
 - selection of underlying assets
 - definition of parameters for underlying assets
 - determination of options pricing options
-- determin
+- determinat
