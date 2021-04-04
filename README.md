@@ -9,4 +9,5 @@ Operator order:
 - selection of underlying assets
 - definition of parameters for underlying assets
 - determination of options pricing options
-- determination of options for optional strategie
+- determination of options for optional strategies
+T
