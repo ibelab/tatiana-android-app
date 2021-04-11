@@ -10,4 +10,4 @@ Operator order:
 - definition of parameters for underlying assets
 - determination of options pricing options
 - determination of options for optional strategies
-The order of 
+The order of the
