@@ -11,4 +11,5 @@ Operator order:
 - determination of options pricing options
 - determination of options for optional strategies
 The order of the bot:
-- definition of traded tickers (rarely
+- definition of traded tickers (rarely)
+-
