@@ -12,4 +12,4 @@ Operator order:
 - determination of options for optional strategies
 The order of the bot:
 - definition of traded tickers (rarely)
-- calc
+- calcula
