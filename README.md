@@ -13,4 +13,4 @@ Operator order:
 The order of the bot:
 - definition of traded tickers (rarely)
 - calculation of the total price
-- calculation of risk contro
+- calculation of risk control par
