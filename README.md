@@ -14,4 +14,5 @@ The order of the bot:
 - definition of traded tickers (rarely)
 - calculation of the total price
 - calculation of risk control parameters
-- calculation of the number of applicati
+- calculation of the number of applications
+-
