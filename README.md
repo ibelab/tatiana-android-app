@@ -15,4 +15,4 @@ The order of the bot:
 - calculation of the total price
 - calculation of risk control parameters
 - calculation of the number of applications
--
+- pric
