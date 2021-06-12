@@ -16,4 +16,4 @@ The order of the bot:
 - calculation of risk control parameters
 - calculation of the number of applications
 - pricing for bids
-- decision making on sending an applica
+- decision making on sending an application
