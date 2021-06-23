@@ -17,4 +17,5 @@ The order of the bot:
 - calculation of the number of applications
 - pricing for bids
 - decision making on sending an application
-- control of civil defen
+- control of civil defense
+- t
