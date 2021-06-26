@@ -18,4 +18,4 @@ The order of the bot:
 - pricing for bids
 - decision making on sending an application
 - control of civil defense
-- transaction a
+- transaction analy
