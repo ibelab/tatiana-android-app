@@ -19,4 +19,4 @@ The order of the bot:
 - decision making on sending an application
 - control of civil defense
 - transaction analysis
-- lo
+- log
