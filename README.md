@@ -20,3 +20,5 @@ The order of the bot:
 - control of civil defense
 - transaction analysis
 - logging
+
+1
