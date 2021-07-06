@@ -21,4 +21,4 @@ The order of the bot:
 - transaction analysis
 - logging
 
-1. Exchange
+1. Exchange da
