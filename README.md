@@ -22,4 +22,4 @@ The order of the bot:
 - logging
 
 1. Exchange data:
-- th
+- the 
