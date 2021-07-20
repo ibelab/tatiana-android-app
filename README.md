@@ -22,4 +22,4 @@ The order of the bot:
 - logging
 
 1. Exchange data:
-- the best quotes for futures through the order b
+- the best quotes for futures through the order book
