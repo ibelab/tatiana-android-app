@@ -24,4 +24,5 @@ The order of the bot:
 1. Exchange data:
 - the best quotes for futures through the order book
 - glasses of option quotes
-- active applicatio
+- active applications
+- 
