@@ -25,4 +25,4 @@ The order of the bot:
 - the best quotes for futures through the order book
 - glasses of option quotes
 - active applications
-- open positi
+- open position
