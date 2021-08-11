@@ -26,3 +26,5 @@ The order of the bot:
 - glasses of option quotes
 - active applications
 - open positions
+
+2. 
