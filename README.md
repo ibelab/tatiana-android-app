@@ -27,4 +27,4 @@ The order of the bot:
 - active applications
 - open positions
 
-2. 
+2. The 
