@@ -27,4 +27,4 @@ The order of the bot:
 - active applications
 - open positions
 
-2. The choi
+2. The choice o
