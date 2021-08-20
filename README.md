@@ -27,4 +27,4 @@ The order of the bot:
 - active applications
 - open positions
 
-2. The choice of tools for tr
+2. The choice of tools for trading.
