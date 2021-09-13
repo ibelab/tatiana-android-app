@@ -28,4 +28,4 @@ The order of the bot:
 - open positions
 
 2. The choice of tools for trading.
-The underlying assets for option series (futures) are manually selected from 
+The underlying assets for option series (futures) are manually selected from the 
