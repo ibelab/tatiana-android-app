@@ -30,4 +30,4 @@ The order of the bot:
 2. The choice of tools for trading.
 The underlying assets for option series (futures) are manually selected from the list.
 Options for market valuation are manually selected from the list. The bot shortens the selected list of options in accordance with the specified evaluation parameters.
-The list of options for trading is selected from the list of options for 
+The list of options for trading is selected from the list of options for ev
