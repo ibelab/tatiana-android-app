@@ -31,4 +31,4 @@ The order of the bot:
 The underlying assets for option series (futures) are manually selected from the list.
 Options for market valuation are manually selected from the list. The bot shortens the selected list of options in accordance with the specified evaluation parameters.
 The list of options for trading is selected from the list of options for evaluating the market in accordance with active strategies.
-Base asset qu
+Base asset quot
