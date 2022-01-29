@@ -34,4 +34,4 @@ The list of options for trading is selected from the list of options for evaluat
 Base asset quotes, market valuation options and active strategies.
 Evaluation parameters and strategy parameters are set in the central part of each option series.
 
-Unique parameters of market assessment and st
+Unique parameters of market assessment and strate
