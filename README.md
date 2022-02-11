@@ -35,4 +35,4 @@ Base asset quotes, market valuation options and active strategies.
 Evaluation parameters and strategy parameters are set in the central part of each option series.
 
 Unique parameters of market assessment and strategies:
-- type of strat
+- type of strategy
