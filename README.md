@@ -37,4 +37,4 @@ Evaluation parameters and strategy parameters are set in the central part of eac
 Unique parameters of market assessment and strategies:
 - type of strategy
 - optional series
-- offset relative to the ce
+- offset relative to the central
