@@ -39,3 +39,5 @@ Unique parameters of market assessment and strategies:
 - optional series
 - offset relative to the central strike
 - type of option
+
+T
