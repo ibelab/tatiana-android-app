@@ -40,4 +40,4 @@ Unique parameters of market assessment and strategies:
 - offset relative to the central strike
 - type of option
 
-The set of parameters ma
+The set of parameters may 
