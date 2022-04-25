@@ -42,4 +42,4 @@ Unique parameters of market assessment and strategies:
 
 The set of parameters may differ depending on the type of option strategy.
 
-3. Simplified algorithm for working with
+3. Simplified algorithm for working with ap
