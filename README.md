@@ -44,4 +44,5 @@ The set of parameters may differ depending on the type of option strategy.
 
 3. Simplified algorithm for working with applications.
 Applications for the purchase and sale of options.
-When market prices change, orders are moved by the team
+When market prices change, orders are moved by the team.
+An 
