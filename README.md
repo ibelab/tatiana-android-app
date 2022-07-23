@@ -46,4 +46,4 @@ The set of parameters may differ depending on the type of option strategy.
 Applications for the purchase and sale of options.
 When market prices change, orders are moved by the team.
 An independent futures hedging module.
-In some specially described cases, active applicatio
+In some specially described cases, active application
