@@ -48,4 +48,4 @@ When market prices change, orders are moved by the team.
 An independent futures hedging module.
 In some specially described cases, active applications are withdrawn.
 
-At the same time, up to eight active statements can be
+At the same time, up to eight active statements can be mad
