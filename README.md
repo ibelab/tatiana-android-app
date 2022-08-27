@@ -50,4 +50,4 @@ In some specially described cases, active applications are withdrawn.
 
 At the same time, up to eight active statements can be made.
 
-Subm
+Submis
