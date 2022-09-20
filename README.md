@@ -52,4 +52,4 @@ At the same time, up to eight active statements can be made.
 
 Submission of applications may be limited.
 
-Sendi
+Sending ap
