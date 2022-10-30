@@ -54,4 +54,4 @@ Submission of applications may be limited.
 
 Sending applications (regardless of directions)
 - capital limit for trading
-- open
+- open 
