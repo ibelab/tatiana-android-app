@@ -56,4 +56,4 @@ Sending applications (regardless of directions)
 - capital limit for trading
 - open position limit
 - volatility spread
-- the number of applications per 
+- the number of applications per day
