@@ -58,4 +58,4 @@ Sending applications (regardless of directions)
 - volatility spread
 - the number of applications per day
 - the number of applications per second
-- tradi
+- trading p
