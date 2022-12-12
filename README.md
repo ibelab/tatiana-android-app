@@ -59,3 +59,5 @@ Sending applications (regardless of directions)
 - the number of applications per day
 - the number of applications per second
 - trading period
+
+4. G
