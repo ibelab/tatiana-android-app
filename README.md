@@ -60,4 +60,4 @@ Sending applications (regardless of directions)
 - the number of applications per second
 - trading period
 
-4. General requirements
+4. General requirements fo
