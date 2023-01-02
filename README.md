@@ -61,4 +61,4 @@ Sending applications (regardless of directions)
 - trading period
 
 4. General requirements for the robot.
-- the best working time of the robot should not e
+- the best working time of the robot should not exc
