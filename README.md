@@ -62,4 +62,4 @@ Sending applications (regardless of directions)
 
 4. General requirements for the robot.
 - the best working time of the robot should not exceed 1 ms
-- the ability to 
+- the ability to ch
