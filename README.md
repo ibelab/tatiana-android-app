@@ -64,4 +64,4 @@ Sending applications (regardless of directions)
 - the best working time of the robot should not exceed 1 ms
 - the ability to change the parameters of the Strategy during the operation of the robot
 - log files are added daily
-- interface for interacting with the bot using cl
+- interface for interacting with the bot using client-
