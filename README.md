@@ -65,4 +65,5 @@ Sending applications (regardless of directions)
 - the ability to change the parameters of the Strategy during the operation of the robot
 - log files are added daily
 - interface for interacting with the bot using client-server technologies
-- sending messages by e-mail upon the unexpected termination of the bo
+- sending messages by e-mail upon the unexpected termination of the bot
+- lau
