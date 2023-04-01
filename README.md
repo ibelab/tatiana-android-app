@@ -66,4 +66,4 @@ Sending applications (regardless of directions)
 - log files are added daily
 - interface for interacting with the bot using client-server technologies
 - sending messages by e-mail upon the unexpected termination of the bot
-- lau
+- launch 
